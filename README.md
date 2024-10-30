@@ -27,4 +27,4 @@ foi realizada a integração do formulário da página com a API do GoogleSheets
 <br><br>
 <br><br>
 
-                                                      Desenvolvido por Marcos Dutra
+                                           Desenvolvido por Marcos Dutra
